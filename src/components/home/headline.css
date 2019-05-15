@@ -1,0 +1,20 @@
+#headline-container {
+  width: 100%;
+  margin-top: 80px;
+}
+
+#intro-headline {
+  color: white;
+  font-size: 55px;
+  font-weight: 700;
+  text-shadow: 2px 2px 4px #000000;
+  width: 500px;
+}
+
+#sub-headline {
+  color: #FFE101;
+  font-size: 24px;
+  font-weight: 700;
+  text-shadow: 2px 2px 4px #000000;
+  width: 500px;
+}

@@ -1,0 +1,76 @@
+#form-container {
+  background-color: white;
+  border-radius: 10px;
+  width: 230px;
+}
+
+#form-title {
+  font-size: 18px;
+  font-weight: 600;
+  padding-top: 30px;
+}
+
+#form-sub-title {
+  font-size: 12px;
+  color: #5E5E5E;
+  width: 190px;
+  margin: 10px 20px 0px 20px;
+}
+
+#steps {
+  font-weight: 500;
+}
+
+.form-elements {
+  width: 190px;
+  margin: 15px 20px 0px 20px;
+}
+
+.form-elements-height {
+  height: 32px;
+}
+
+.btn-attributes {
+  width: 100%;
+  border-radius: 0px;
+  font-size: 16px;
+  font-weight: 500;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+}
+
+.btn-attributes:hover {
+  color: white;
+}
+
+.btn-attributes:focus {
+  color: white;
+}
+
+#lower-rate-btn-container {
+  padding-top: 8px;
+}
+
+#lower-rate-btn {
+  background-color: #E40001;
+}
+
+#call-btn {
+  background-color: #2589D1;
+}
+
+.glyphicon-earphone-ext {
+  font-size: 18px;
+  margin-right: 5px;
+  margin-top: -5px;
+  vertical-align: middle;
+}
+
+#form-details-container {
+  font-size: 10px;
+  color: #8D878F;
+  text-align: center;
+  padding-top: 8px;
+  padding-bottom: 20px;
+}

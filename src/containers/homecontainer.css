@@ -1,0 +1,84 @@
+@media screen and (min-width: 0px) and (max-width: 767px) {
+  /* FormSection Component */
+  #form-section-row {
+    margin-top: 0px;
+    margin-bottom: 20px;
+  }
+
+  /* Headline Component */
+  #headline-container {
+    margin-top: 0px;
+    width: 230px;
+    margin: 0px auto;
+  }
+
+  #intro-headline {
+    font-size: 28px;
+    font-weight: 700;
+    text-shadow:none;
+    width: 300px;
+  }
+
+  #sub-headline {
+    font-size: 14px;
+    font-weight: 700;
+    text-shadow:none;
+    width: 200px;
+  }
+
+  /* Form Component */
+  #form-container {
+    width: 230px;
+    margin: 0px auto;
+  }
+
+  /* show it on smaller screen */
+  #call-btn-container {
+    display: inline-block;
+  }
+
+  /* Info Component */
+  #info-title {
+    color: #E40001;
+    font-size: 18px;
+    font-weight: 300;
+    width: 550px;
+    margin: 0px auto 10px auto;
+  }
+
+  #benefits-container {
+    list-style: none;
+    padding-left: 0px;
+    width: 250px;
+    margin: 0px auto 10px auto;
+  }
+
+  .benefits {
+    font-size: 14px;
+    font-weight: 300;
+  }
+
+  .glyphicon-ok-ext {
+    font-size: 10px;
+    margin-right: 8px;
+  }
+
+  /* InfoImage Component */
+  #car-image {
+    width: 250px;
+    height: 175px;
+    margin: 0px auto;
+  }
+}
+
+@media screen and (min-width: 769px) {
+  /* hide it on bigger screen */
+  #call-btn-container {
+    display: none;
+  }
+}
+
+.home-container {
+  height: 100%;
+  width: 100%;
+}

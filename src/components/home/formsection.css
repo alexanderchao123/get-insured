@@ -1,0 +1,15 @@
+#form-section {
+  height: auto;
+  width: 100%;
+  background-image: url('../../assets/images/bg.jpg');
+  background-repeat: no-repeat;
+  background-position: 50% 100%;
+  background-size: cover;
+  /* background-position: center; */
+  /* background-attachment: fixed; */
+}
+
+#form-section-row {
+  margin-top: 10px;
+  margin-bottom: 80px;
+}

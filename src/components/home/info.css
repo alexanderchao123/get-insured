@@ -1,0 +1,20 @@
+#info-title {
+  color: #E40001;
+  font-size: 25px;
+  font-weight: 300;
+  width: 300px;
+}
+
+#benefits-container {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.benefits {
+  font-size: 16px;
+}
+
+.glyphicon-ok-ext {
+  font-size: 12px;
+  margin-right: 10px;
+}
